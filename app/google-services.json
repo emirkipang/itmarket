@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "438932840160",
+    "firebase_url": "https://telkomsel-abed6.firebaseio.com",
+    "project_id": "telkomsel-abed6",
+    "storage_bucket": "telkomsel-abed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438932840160:android:fa73f9478d536b49",
+        "android_client_info": {
+          "package_name": "restuibu.com.itmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438932840160-8f0fi58b45vevfclv0qkuft3j5qr3hc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "restuibu.com.itmarket",
+            "certificate_hash": "2afa2e7c5182284ff70eb4dedda4008a983cab14"
+          }
+        },
+        {
+          "client_id": "438932840160-cd2hcmuc5htndoh611fpaaf1eh7llr9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhaeGwIpq0T7T02G8RU-INHTV27XcVYG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438932840160-cd2hcmuc5htndoh611fpaaf1eh7llr9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
